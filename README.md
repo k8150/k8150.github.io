@@ -1,7 +1,7 @@
-# sample-jekyll2
+# k8150.github.io
 
 ```sh
-bundle install --path vendor/bundle
+# ローカル実行
+$ bundle install --path vendor/bundle
+$ bundle exec jekyll serve
 ```
-
-https://k8150.github.io/sample-jekyll2/
